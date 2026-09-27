@@ -1,4 +1,4 @@
-URBAN WOOD WORKS WEBSITE
+JEEN WOOD WORKS
 
 IMPORTANT: Before publishing, open index.html and find the section:
 EDIT YOUR BUSINESS DETAILS HERE
@@ -11,7 +11,7 @@ Change these values:
 - whatsapp = WhatsApp number with country code, without + or spaces
 
 Example:
-location: "Rohini, Delhi"
+location: "Dehli,Sagarpur"
 timings: "10:00 AM – 8:00 PM"
 phone: "+91 98765 43210"
 whatsapp: "919876543210"
